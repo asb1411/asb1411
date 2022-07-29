@@ -1,6 +1,6 @@
 👋 Hi, I’m @asb1411
 - I’m a Software Developer working in the Cloud domain, with experience in programming languages like Python, C++, Java, Solidity.
-- Recently forayed into web3 development, with rigorous understanding of blockchain tech
+- Forayed into web3 development, with rigorous understanding of blockchain tech, over a year of experience
 - Experience with CI/CD piplelines using GitLab and Jenkins, and IaC in Terraform
 - Machine Learning and Computer Vision Projects
 
